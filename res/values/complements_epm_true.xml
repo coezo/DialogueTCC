@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="basil_use_true">Você deve ter visto mais sobre o manjericão na Espiral de Plantas Medicinais.</string>
+    <string name="cilantro_use_true">Você deve ter visto mais sobre o coentro na Espiral de Plantas Medicinais.</string>
+    <string name="rosemary_use_true">Você deve ter visto mais sobre o alecrim na Espiral de Plantas Medicinais.</string>
+    <string name="good_for_health_true">Você já deve ter visto isso na Espiral de Plantas Medicinais, né?</string>
+    <string name="only_edible_true">Sem contar as que só tem uso medicinal, que você já deve ter visto.</string>
+
+</resources>

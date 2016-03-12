@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This is spoken as an introduction for the Espiral de Plantas Comestíveis -->
+    <string name="edible_plants_intro">Esta é a nossa espiral de plantas comestíveis. Tem plantas de todas as variedades aqui. Elas servem para dar mais sabor às nossas refeições.</string>
+    
+    <!-- Expected question example: Qual o seu nome? -->
+    <string-array name="own_name">
+        <item>Laurico.</item>
+        <item>Meu nome é Laurico.</item>
+        <item>O pessoal do parque me deu o nome de Laurico.</item>
+        <item>É Laurico.</item>
+        <item>Laurico ao seu dispor.</item>
+    </string-array>
+    
+    <!-- Expected question example: Que dia é hoje? -->
+    <string-array name="what_day">
+        <item>Hoje é %1$s.</item>
+        <item>%1$s.</item>
+        <item>É %1$s.</item>
+        <item>Hoje? %1$s.</item>
+        <item>Ah, %1$s.</item>
+    </string-array>
+    
+    <!-- This is the array of weekdays to be used on the answer "what_day" above -->
+    <string-array name="weekdays">
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sábado</item>
+    </string-array>
+    
+    <!-- Expected question example: Você gosta de banana? -->
+    <string-array name="likes_banana">
+        <item>Sim, adoro!</item>
+        <item>É delicioso!</item>
+        <item>É gostoso e nutritivo!</item>
+        <item>Sim!</item>
+        <item>Claro!</item>
+        <item>Claro, sou um macaco!</item>
+    </string-array>
+    
+    <!-- Expected question example: Qual o nome das plantas? -->
+    <string-array name="plants_names">
+        <item>Cebolinha, Manjericão, Salsa, Coentro, Alecrim e Orégano.</item>
+        <item>Manjericão, Coentro, Orégano, Cebolinha, Salsa e Alecrim.</item>
+        <item>Alecrim, Salsa, Cebolinha, Orégano, Coentro e Manjericão.</item>
+        <item>Orégano, Alecrim, Coentro, Salsa, Manjericão e Cebolinha.</item>
+        <item>Aqui temos Manjericão, Coentro, Orégano, Cebolinha, Salsa e Alecrim.</item>
+        <item>Alecrim, Cebolinha, Coentro, Manjericão, Orégano e Salsa. Você reparou que falei os nomes em ordem alfabética?</item>
+        <item>Temos Alecrim, Salsa, Cebolinha, Orégano, Coentro e Manjericão.</item>
+    </string-array>
+    
+    <!-- Expected question example: Pra que serve a cebolinha? -->
+    <string-array name="chive_use">
+        <item>A cebolinha é utilizada como tempero e também como parte de uma salada.</item>
+        <item>Ela é utilizada como tempero e também como parte de uma salada.</item>
+        <item>A cebolinha é usada como tempero, mas também como parte de uma salada.</item>
+        <item>Ela é usada como tempero, mas também como parte de saladas.</item>
+        <item>A cebolinha é usada como tempero e também como parte de saladas.</item>
+        <item>Ela é usada como tempero e também como parte de saladas.</item>
+    </string-array>
+    
+    <!-- Expected question example: Em que prato se usa a cebolinha? -->
+    <string-array name="chive_dishes">
+        <item>Saladas, pastas de queijo fresco e pratos de ovos e queijo. Também apreciada no molho tártaro.</item>
+        <item>A cebolinha é utilizada em saladas, pastas de queijo fresco e pratos de ovos e queijo, além de ser apreciada no molho tártaro.</item>
+        <item>Usam a cebolinha em pastas de queijo fresco, pratos de ovos e queijo, saladas e também é aprecisada no molho tártaro.</item>
+        <item>Usam a cebolinha para fazer pastas de queijo fresco, saladas, pratos de ovos e queijo, e no molho tártaro.</item>
+        <item>É apreciada no molho tártaro e também utilizada em pratos de queijo e ovos, pastas de queijo fresco e saladas.</item>
+    </string-array>
+    
+    <!-- Expected question example: Pra que serve o manjericão? -->
+    <string-array name="basil_use">
+        <item>O manjericão é utilizado como tempero e também tem algumas propriedades medicinais.</item>
+        <item>Ele é utilizado como tempero e também tem algumas propriedades medicinais.</item>
+        <item>O manjericão é usado como tempero, mas também tem propriedades medicinais.</item>
+        <item>Ele é usado como tempero, mas também tem propriedades medicinais.</item>
+        <item>O manjericão é usado como tempero e também tem propriedades medicinais.</item>
+        <item>Ele é usado como tempero e também tem propriedades medicinais.</item>
+    </string-array>
+    
+    <!-- Expected question example: Em que prato se usa o manjericão? -->
+    <string-array name="basil_dishes">
+        <item>Dois exemplos de comida que utilizam manjericão: a pizza marguerita e o pesto.</item>
+        <item>O manjericão é utilizado no preparo da pizza marguerita e do pesto.</item>
+        <item>Usam o manjericão no preparo da pizza marguerita e do pesto.</item>
+        <item>Usam o manjericão para fazer a pizza marguerita e pesto.</item>
+        <item>A pizza marguerita e o pesto.</item>
+    </string-array>
+    
+    <!-- Expected question example: Pra que serve a salsa? -->
+    <string-array name="parsley_use">
+        <item>A salsa é utilizada como tempero. É rica em vitaminas e fibras e é uma boa fonte de antioxidantes.</item>
+        <item>Ela é utilizada como tempero. É rica em vitaminas e fibras e é uma boa fonte de antioxidantes.</item>
+        <item>A salsa é usada como tempero. É rica em fibras e vitaminas e é uma boa fonte de antioxidantes.</item>
+        <item>Ela é usada como tempero. É rica em fibras e vitaminas e é uma boa fonte de antioxidantes.</item>
+        <item>A salsa é usada como tempero. É uma boa fonte de antioxidantes e é rica em vitaminas e fibras.</item>
+        <item>Ela é usada como tempero. É uma boa fonte de antioxidantes e é rica em vitaminas e fibras.</item>
+    </string-array>
+    
+    <!-- Expected question example: Em que prato se usa a salsa? -->
+    <string-array name="parsley_dishes">
+        <item>A salsa é utilizada em muitos pratos salgados, como carnes, por exemplo.</item>
+        <item>A salsa é utilizada para fazer muitos pratos salgados, como carnes.</item>
+        <item>Usam a salsa no preparo de muitos pratos salgados, como carnes, por exemplo.</item>
+        <item>Usam a salsa para fazer muitos pratos salgados, como carnes.</item>
+        <item>Pratos salgados, como carnes, por exemplo.</item>
+    </string-array>
+    
+    <!-- Expected question example: Pra que serve o coentro? -->
+    <string-array name="cilantro_use">
+        <item>O coentro é utilizado como tempero e também tem algumas propriedades medicinais.</item>
+        <item>Ele é utilizado como tempero e também tem algumas propriedades medicinais.</item>
+        <item>O coentro é usado como tempero, mas também tem propriedades medicinais.</item>
+        <item>Ele é usado como tempero, mas também tem propriedades medicinais.</item>
+        <item>O coentro é usado como tempero e também tem propriedades medicinais.</item>
+        <item>Ele é usado como tempero e também tem propriedades medicinais.</item>
+    </string-array>
+    
+    <!-- Expected question example: Em que prato se usa o coentro? -->
+    <string-array name="cilantro_dishes">
+        <item>O coentro é utilizado em muitos pratos salgados, especialmente peixes ensopados e em moqueca.</item>
+        <item>O coentro é utilizado para fazer muitos pratos salgados, especialmente ensopados e moquecas de peixe.</item>
+        <item>Usam o coentro no preparo de muitos pratos salgados, especialmente peixes ensopados e em moqueca.</item>
+        <item>Usam a salsa para fazer muitos pratos salgados, especialmente ensopados e moquecas de peixe.</item>
+        <item>Pratos salgados, especialmente peixes ensopados e em moqueca.</item>
+        <item>Pratos salgados, especialmente ensopados e moquecas de peixe.</item>
+    </string-array>
+    
+    <!-- Expected question example: Pra que serve o alecrim? -->
+    <string-array name="rosemary_use">
+        <item>O alecrim é utilizado como tempero e também tem algumas propriedades medicinais.</item>
+        <item>Ele é utilizado como tempero e também tem algumas propriedades medicinais.</item>
+        <item>O alecrim é usado como tempero, mas também tem propriedades medicinais.</item>
+        <item>Ele é usado como tempero, mas também tem propriedades medicinais.</item>
+        <item>O alecrim é usado como tempero e também tem propriedades medicinais.</item>
+        <item>Ele é usado como tempero e também tem propriedades medicinais.</item>
+    </string-array>
+    
+    <!-- Expected question example: Em que prato se usa o alecrim? -->
+    <string-array name="rosemary_dishes">
+        <item>O alecrim é utilizado em muitos pratos de carnes, peixes e massas, além de sopas e molhos.</item>
+        <item>O alecrim é utilizado para fazer muitos pratos de massas, carnes e peixes, além de molhos e sopas.</item>
+        <item>Usam o alecrim no preparo de muitos pratos de carnes, peixes e massas, além de sopas e molhos.</item>
+        <item>Usam o alecrim para fazer muitos pratos de massas, carnes e peixes, além de molhos e sopas.</item>
+        <item>Pratos de carnes, peixes e massas, além de sopas e molhos.</item>
+        <item>Pratos de massas, carnes e peixes, além de molhos e sopas.</item>
+    </string-array>
+    
+    <!-- Expected question example: Pra que serve o orégano? -->
+    <string-array name="oregano_use">
+        <item>O orégano é utilizado como tempero, normalmente na sua forma seca.</item>
+        <item>Ele é utilizado como tempero, normalmente na sua forma seca.</item>
+        <item>O orégano é usado como tempero, principalmente na sua forma seca.</item>
+        <item>Ele é usado como tempero, principalmente na sua forma seca.</item>
+        <item>O orégano é utilizado como tempero, principalmente na sua forma seca.</item>
+        <item>Ele é usado como tempero, normalmente na sua forma seca.</item>
+    </string-array>
+    
+    <!-- Expected question example: Em que prato se usa o orégano? -->
+    <string-array name="oregano_dishes">
+        <item>O orégano é um ingrediente importante da culinária italiana, sendo utilizado em molhos de tomate, vegetais refogados, carne, e na pizza.</item>
+        <item>O orégano é um ingrediente essencial na culinária italiana, utilizado na pizza, em vegetais refogados, carne, e molhos de tomate.</item>
+        <item>Usam o orégano em molhos de tomate, vegetais refogados, carne, e na pizza, sendo um ingrediente importante da culinária italiana.</item>
+        <item>Usam o orégano na pizza, em vegetais refogados, carne, e molhos de tomate, sendo um ingrediente importante da culinária italiana.</item>
+        <item>Em molhos de tomate, vegetais refogados, carne, e na pizza, sendo um ingrediente importante da culinária italiana.</item>
+        <item>Na pizza, em vegetais refogados, carne, e molhos de tomate, sendo um ingrediente importante da culinária italiana.</item>
+    </string-array>
+    
+    <!-- Expected question example: Qual planta faz bem à saúde? -->
+    <string-array name="good_for_health">
+        <item>Todas trazem benefícios para a saúde, na alimentação e de outras formas.</item>
+        <item>Todas, na alimentação e de outras formas.</item>
+        <item>Todas elas, na alimentação e de outras formas.</item>
+        <item>Todas fazem bem a saúde, na alimentação e de outras formas.</item>
+        <item>Todas elas fazem bem a saúde, na alimentação e de outras formas.</item>
+    </string-array>
+    
+    <!-- Expected question example: Qual a planta mais gostosa? -->
+    <string-array name="most_delicious">
+        <item>Todas elas são muito saborosas. A minha preferida é o orégano.</item>
+        <item>Todas são muito gostosas, mas eu gosto mais do orégano.</item>
+        <item>Todas elas são deliciosas. A que mais gosto é o orégano.</item>
+        <item>Todas são muito saborosas, mas eu gosto mais do orégano.</item>
+        <item>Todas elas são muito gostosas. A que gosto mais é o orégano.</item>
+        <item>Todas são deliciosas, mas a minha preferida é o orégano.</item>
+    </string-array>
+    
+    <!-- Expected question example: Só existem essas plantas comestíveis? -->
+    <string-array name="only_edible">
+        <item>Não, mas só temos essas no parque.</item>
+        <item>Não, existem muitas outras, mas só temos essas no parque.</item>
+        <item>Não, existem outras, mas só temos essas no parque.</item>
+        <item>Não, mas só temos essas aqui no parque.</item>
+        <item>Existem muitas outras, mas só temos essas aqui no parque.</item>
+        <item>Existem outras, mas só temos essas aqui no parque.</item>
+    </string-array>
+    
+    <!-- Expected question example: Posso usar as plantas combinadas? -->
+    <string-array name="combine_plants">
+        <item>Sim, como por exemplo o manjericão e o orégano na pizza.</item>
+        <item>Sim, como o manjericão e o orégano em uma pizza.</item>
+        <item>Sim, como por exemplo a pizza, que pode conter manjericão e orégano.</item>
+        <item>Sim. Um exemplo é o orégano e o manjericão na pizza.</item>
+        <item>Sim. O orégano e o manjericão em uma pizza é um exemplo.</item>
+        <item>Sim. Por exemplo a pizza, que pode conter orégano e manjericão.</item>
+    </string-array>
+    
+    <!-- Expected question example: Posso comprar essas plantas no super mercado? -->
+    <string-array name="buy_grocery_store">
+        <item>Sim, pode-se comprar todas no super mercado comum.</item>
+        <item>Sim, todas são encontradas no super mercado comum.</item>
+        <item>Sim, todas são vendidas em super mercado comum.</item>
+        <item>Pode-se comprar todas no super mercado comum.</item>
+        <item>Todas são encontradas em super mercado comum.</item>
+        <item>Todas são vendidas em super mercado comum.</item>
+    </string-array>
+    
+    <!-- Expected question example: Posso comer essas plantas cruas? -->
+    <string-array name="eat_raw">
+        <item>Sim, todas elas podem ser consumidas cruas. Lave-as bem antes de consumir!</item>
+        <item>Sim, todas podem ser comidas cruas. Lave-as bem antes de comer!</item>
+        <item>Sim, todas podem ser usadas cruas, mas devem ser bem lavadas.</item>
+        <item>Todas elas podem ser consumidas cruas. Lave-as bem antes de consumir!</item>
+        <item>Todas podem ser comidas cruas. Lave-as bem antes de comer!</item>
+        <item>Todas podem ser usadas cruas, mas devem ser bem lavadas.</item>
+    </string-array>
+    
+    <!-- Expected question example: Posso comer essas plantas cozidas? -->
+    <string-array name="eat_cooked">
+        <item>Sim, todas elas podem ser consumidas cozidas.</item>
+        <item>Sim, todas podem ser comidas cozidas.</item>
+        <item>Sim, todas podem ser usadas cozidas.</item>
+        <item>Todas elas podem ser consumidas cozidas.</item>
+        <item>Todas podem ser comidas cozidas.</item>
+        <item>Todas podem ser usadas cozidas.</item>
+    </string-array>
+    
+    <!-- Expected question example: Devo comer essas plantas cruas ou cozidas? -->
+    <string-array name="eat_cooked_or_raw">
+        <item>Tanto faz, mas se for consumir cru, lave-as bem antes!</item>
+        <item>De uma forma ou de outra. Se for comer cru, lave-as bem antes!</item>
+        <item>Cru ou cozido, mas se for usar cru, lave-as bem antes.</item>
+        <item>Tanto faz, mas se for usar cru, devem ser bem lavadas!</item>
+        <item>De uma forma ou de outra. Se for consumir cru, devem ser bem lavadas!</item>
+        <item>Cru ou cozido, mas se for comer cru, devem ser bem lavadas!</item>
+    </string-array>
+    
+    <!-- These are used in case no keyword matches are found for the speech -->
+    <string-array name="no_match">
+        <item>Não entendo deste assunto, desculpa.</item>
+        <item>Isso eu não sei, desculpa.</item>
+        <item>Eu não sei, desculpa.</item>
+        <item>Não tenho conhecimento sobre isto.</item>
+        <item>Não tenho conhecimento sobre este assunto.</item>
+        <item>Não sei, desculpa.</item>
+    </string-array>
+    
+    <!-- These are used in case all the responses for a given match are exhausted -->
+    <string-array name="no_alternative">
+        <item>Não sei mais o que dizer sobre isso.</item>
+        <item>Acho que já falei tudo que sabia sobre isso.</item>
+        <item>Meu conhecimento sobre o assunto não vai além do que já falei.</item>
+        <item>Já falei tudo que sabia sobre este assunto.</item>
+        <item>Acho que já falei tudo sobre isso.</item>
+    </string-array>
+    
+    <!-- These are used in case the same keyword matches are found for a speech 3 times in a row -->
+    <string-array name="repetition">
+        <item>De novo? Já respondi isso!</item>
+        <item>Eu já respondi isso.</item>
+        <item>Por que está repetindo isso toda hora?</item>
+        <item>Pergunta algo diferente!</item>
+        <item>Estou ficando entediado.</item>
+        <item>Tem um papagaio aqui no parque que adoraria conversar com você!</item>
+    </string-array>
+
+</resources>

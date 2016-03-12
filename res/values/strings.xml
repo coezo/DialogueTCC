@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DialogueTCC</string>
+	<string name="btSpeak">Fale</string>
+	<string name="cbMPlants">Passou pela Espiral de Plantas Medicinais</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_voice_recognition">DialogueTCC</string>
+    <string name="tvTextMatch">Texto Reconhecido</string>
+    <string name="asr_unavailable">Reconhecedor não disponível</string>
+    <string name="audio_error">Erro de áudio</string>
+    <string name="client_error">Erro de cliente</string>
+    <string name="network_error">Erro de rede</string>
+    <string name="server_error">Erro de servidor</string>
+    <string name="no_match">Sem reconhecimento</string>
+
+</resources>

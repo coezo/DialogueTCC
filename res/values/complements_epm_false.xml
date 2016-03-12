@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="basil_use_false">Passe na Espiral de Plantas Medicinais para saber mais sobre o manjericão.</string>
+    <string name="cilantro_use_false">Passe na Espiral de Plantas Medicinais para saber mais sobre o coentro.</string>
+    <string name="rosemary_use_false">Passe na Espiral de Plantas Medicinais para saber mais sobre o alecrim.</string>
+    <string name="good_for_health_false">Passe na Espiral de Plantas Medicinais para saber mais a respeito.</string>
+    <string name="only_edible_false">Sem contar as que só tem uso medicinal, que você pode conferir na Espiral de Plantas Medicinais.</string>
+
+</resources>
